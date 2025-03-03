@@ -1,6 +1,21 @@
-<p align="left">Hello Everyone, i'm Saravana Kumar, currently a final year engineering graduate from Madurai, Tamil Nadu. Interested in technology and deepening my skills everyday!.</p>
+<h1 align="left">Hi Everyone!</h1>
 
 ###
+
+<p align="left">My name is Saravana Kumar and I'm a final year engineering graduate from Madurai. Tech enthusiast, deepening my skills everyday.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Become a flexible Full Stack developer<br>🎲 Fun fact: The first-ever computer bug was literally a bug! 🐛 In 1947, engineers found a moth stuck in a Harvard Mark II computer, causing a malfunction. They removed it and taped it into the logbook, marking the birth of the term "debugging.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
